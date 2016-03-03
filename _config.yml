@@ -1,0 +1,28 @@
+name: Johnhardwicke
+favicon: null
+layout_spectrum: 0.8489889295306057
+typography_spectrum: 0.5722326883114874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4100062462966889
+  lightness: 0.156470408430323
+  saturation: 0.174113848246634
+  rhythmicContrast: 0.42379215243272483
+purpose: []
